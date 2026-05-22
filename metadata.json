@@ -1,0 +1,6 @@
+{
+  "name": "TrueCast",
+  "description": "A premium modern Weather application with high-fidelity glassmorphism elements, live radar simulations, and customizable unit options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
